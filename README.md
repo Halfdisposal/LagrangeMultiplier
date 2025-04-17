@@ -22,4 +22,8 @@ Run the main.py file
 ```bash
 python3 main.py
 ```
-In the *main.py* file, the function to optimize is *'f'* and constraint is *'g'*. Play around with different functions. The plot is made with your devices default browser backend.
+In Windows
+```bash
+python main.py
+```
+In the *main.py* file, the function to optimize is *'f'* and constraint is *'g'*. Play around with different functions. The plot is made with your device's default browser backend.
