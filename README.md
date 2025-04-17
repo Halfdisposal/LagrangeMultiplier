@@ -11,7 +11,7 @@ Solving for $L(x, y) = 0$, we get $\frac{\partial f}{\partial x_i} - \lambda \fr
 # Using The Code
 Clone this repository
 ```bash
-git clone https://github.com/Halfdisposal/LagrangeMultipliter
+git clone https://github.com/Halfdisposal/LagrangeMultiplier
 cd LagrangeMultiplier
 ```
 Install the necessary requirements <br>
